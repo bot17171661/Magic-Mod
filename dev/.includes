@@ -1,0 +1,15 @@
+other.js
+header.js
+translate.js
+
+
+items/magicWand.js
+
+blocks/magicPedestal.js
+blocks/magicTable.js
+
+items/craftingItems.js
+
+crafts.js
+RecipeViewer.js
+shared.js
